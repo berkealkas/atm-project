@@ -1,0 +1,70 @@
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.Main.resources
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.Register.resources
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\EntityFramework.dll
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\EntityFramework.xml
+C:\Users\berke\source\repos\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.LogIn.resources
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.Menu.resources
+C:\Users\berke\source\repos\ATM\ATM\obj\Debug\ATM.WithdrawMoney.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\EntityFramework.dll
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\EntityFramework.xml
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.LogIn.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.Main.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.Menu.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.Register.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.WithdrawMoney.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.DepositMoney.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.PayBills.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.Transfer.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.UpdateInfo.resources
+C:\Users\berke\OneDrive\Masaüstü\ATM\ATM\obj\Debug\ATM.About.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\EntityFramework.dll
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\EntityFramework.xml
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.About.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.DepositMoney.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Login.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Main.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Menu.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.PayBills.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Register.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.Transfer.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.UpdateInfo.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.WithdrawMoney.resources
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\berke\OneDrive\Masaüstü\Ders Notları\2.Sınıf Bahar\Görsel Programlama\ATM\ATM\obj\Debug\ATM.pdb

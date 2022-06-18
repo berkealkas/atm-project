@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="phone_number" Type="Decimal" Precision="10" Scale="0" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="amount" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="BankEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Member" EntityType="Self.Member" />
+    <EntitySet Name="Bills" EntityType="BankModel.Bills" />
+    <EntitySet Name="TransferInfo" EntityType="BankModel.TransferInfo" />
+    <EntitySet Name="Withdraw" EntityType="BankModel.Withdraw" />
+    <EntitySet Name="Deposit" EntityType="BankModel.Deposit" />
+  </EntityContainer>
+  <EntityType Name="Bills">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="phone_number" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="bill" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="bill_price" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="TransferInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="phone_number" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="transfer_amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="transfer_phone_number" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Withdraw">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="phone_number" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="withdraw_money" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="current_amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Deposit">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="phone_number" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="deposit_money" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="current_money" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+</Schema>

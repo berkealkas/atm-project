@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BankModelStoreContainer" CdmEntityContainer="BankEntities">
+    <EntitySetMapping Name="Member">
+      <EntityTypeMapping TypeName="BankModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bills">
+      <EntityTypeMapping TypeName="BankModel.Bills">
+        <MappingFragment StoreEntitySet="Bills">
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="bill_price" ColumnName="bill_price" />
+          <ScalarProperty Name="bill" ColumnName="bill" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransferInfo">
+      <EntityTypeMapping TypeName="BankModel.TransferInfo">
+        <MappingFragment StoreEntitySet="TransferInfo">
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="transfer_phone_number" ColumnName="transfer_phone_number" />
+          <ScalarProperty Name="transfer_amount" ColumnName="transfer_amount" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Withdraw">
+      <EntityTypeMapping TypeName="BankModel.Withdraw">
+        <MappingFragment StoreEntitySet="Withdraw">
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="current_amount" ColumnName="current_amount" />
+          <ScalarProperty Name="withdraw_money" ColumnName="withdraw_money" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Deposit">
+      <EntityTypeMapping TypeName="BankModel.Deposit">
+        <MappingFragment StoreEntitySet="Deposit">
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="current_money" ColumnName="current_money" />
+          <ScalarProperty Name="deposit_money" ColumnName="deposit_money" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
